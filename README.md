@@ -51,6 +51,10 @@ pip install wrapt
 As mentioned at the top, this was made as a project and not intended for actual use. Below I demonstrate what any expert hacker can accomplish by exploiting a vulnerability. Just kidding, anyone can do this. Since the files are stored locally, they can easily be deleted without needing to enter any credentials and consequently all stored passwords are gone along with other data.
 
 ## Screenshots
+[![Screenshot 1](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/1.png "Screenshot 1")](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/1.png "Screenshot 1")
 
+[![Screenshot 2](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/2.png "Screenshot 2")](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/2.png "Screenshot 2")
+
+[![Screenshot 3](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/3.png "Screenshot 3")](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/3.png "Screenshot 3")
 
 
