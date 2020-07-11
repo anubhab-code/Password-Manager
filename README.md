@@ -57,4 +57,7 @@ As mentioned at the top, this was made as a project and not intended for actual 
 
 [![Screenshot 3](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/3.png "Screenshot 3")](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/3.png "Screenshot 3")
 
+[![Screenshot 4](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/4.png "Screenshot 4")](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/4.png "Screenshot 4")
+
+[![Screenshot 5](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/5.png "Screenshot 5")](https://github.com/anubhab-code/Password-Manager/blob/master/Screenshots/5.png "Screenshot 5")
 
